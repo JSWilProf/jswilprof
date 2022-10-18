@@ -4,6 +4,8 @@
 ![Spring Boot](https://img.shields.io/static/v1?label=%20&message=Spring%20Boot&color=6DB33F&logoColor=ffffff&style=for-the-badge&logo=Spring%20Boot)
 ![Quarkus](https://img.shields.io/static/v1?label=%20&message=Quarkus&color=4695EB&logoColor=ffffff&style=for-the-badge&logo=Quarkus)
 ![Swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=F05138&logoColor=ffffff&style=for-the-badge&logo=Swift)
+![iOS](https://img.shields.io/static/v1?label=%20&message=iOS&color=000000&logoColor=ffffff&style=for-the-badge&logo=iOS)
+![Android](https://img.shields.io/static/v1?label=%20&message=Android&color=#3DDC84&logoColor=ffffff&style=for-the-badge&logo=Android)
 ![Dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=0175C2&style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=02569B&style=for-the-badge&logo=Flutter)
 ![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=F7DF1E&logoColor=000000&style=for-the-badge&logo=JavaScript)
