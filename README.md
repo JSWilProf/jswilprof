@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK)
+![Swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=Swift)
+![Dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=Dart)
+![Flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=Flutter)
+![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=JavaScript)
+
 <!--
 **JSWilProf/jswilprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK)
 [![My Repo stats](https://github-readme-stats.vercel.app/api?username=jswilprof&show_icons=true)](https://github.com/jswilprof)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilprof)](https://github.com/jswilprof)
