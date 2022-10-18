@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK)
-![Swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=F05138&style=for-the-badge&logo=Swift)
+![Swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=F05138&logoColor=000000&style=for-the-badge&logo=Swift)
 ![Dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=0175C2&style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=02569B&style=for-the-badge&logo=Flutter)
 ![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=F7DF1E&logoColor=000000&style=for-the-badge&logo=JavaScript)
