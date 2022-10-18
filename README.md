@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My Repo stats](https://github-readme-stats.vercel.app/api?username=jswilprof&show_icons=true)](https://github.com/jswilprof/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilprof&layout=compact)](https://github.com/jswilprof/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilprof)](https://github.com/jswilprof/github-readme-stats)
