@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Repo stats](https://github-readme-stats.vercel.app/api?username=jswilprof)](https://github.com/jswilprof/github-readme-stats)
+[![My Repo stats](https://github-readme-stats.vercel.app/api?username=jswilprof&show_icons=true)](https://github.com/jswilprof/github-readme-stats)
