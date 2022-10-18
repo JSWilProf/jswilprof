@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/dynamic/json?style=flat-square&logo=OpenJDK
+https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK
 [![My Repo stats](https://github-readme-stats.vercel.app/api?username=jswilprof&show_icons=true)](https://github.com/jswilprof)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilprof)](https://github.com/jswilprof)
